@@ -1,13 +1,17 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy Yilber Enrique</h1>
+  <h1>¡Hola! 👋 Soy </h1>
   
 </div>
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yil12/yil12/main/banner.png" alt="Banner de Yilber Enrique" width="100%" />
+  <img src="https://raw.githubusercontent.com/yil12/yil12/main/banner.jpg" 
+       alt="Yilber Enrique - Desarrollador Junior" 
+       width="100%" 
+       style="height: 400px; border-radius: 12px;" />
 </p>
----
+
+<br>
 
 ### Sobre mí
 - **+4 años** de experiencia creando soluciones backend y frontend escalables.
@@ -30,14 +34,6 @@
 **Otros**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### GitHub Stats
-
-![Yilber's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 ---
 
