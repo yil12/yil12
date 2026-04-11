@@ -1,15 +1,18 @@
 <div align="center">
   <h1>¡Hola! 👋 Soy Yilber Enrique</h1>
-  <h3>Desarrollador Web Full Stack | Apasionado por APIs robustas y interfaces modernas</h3>
+  
 </div>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yil12/yil12/main/banner.png" alt="Banner de Yilber Enrique" width="100%" />
+</p>
 ---
 
 ### Sobre mí
 - **+4 años** de experiencia creando soluciones backend y frontend escalables.
-- Especializado en **FastAPI**, **.NET**, **React**, **Angular** y **Docker**.
+- Conocimientos en **FastAPI**, **.NET**, **React**, **Node** y **Docker**.
 - Me encanta construir sistemas geospaciales, plataformas multi-tenant y APIs de alto rendimiento.
-- Actualmente disponible para **proyectos freelance** o colaboraciones.
 
 ### Tecnologías que domino
 
@@ -39,9 +42,8 @@
 ---
 
 ### Conéctate conmigo
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **Email**: tuemail@ejemplo.com
-- **Portafolio**: [tu-portafolio.com](https://tu-portafolio.com)
+- **LinkedIn**: [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/yilber-molina-31270b201/))
+- **Email**: yilbersilo@gmail.com
 
 ---
 
