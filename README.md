@@ -38,7 +38,7 @@
 ---
 
 ### Conéctate conmigo
-- **LinkedIn**: [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/yilber-molina-31270b201/))
+- **LinkedIn**: [Yilber Molina](https://www.linkedin.com/in/yilber-molina-31270b201/)
 - **Email**: yilbersilo@gmail.com
 
 ---
