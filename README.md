@@ -39,7 +39,7 @@
 
 ### Conéctate conmigo
 - **LinkedIn**: [Yilber Molina](https://www.linkedin.com/in/yilber-molina-31270b201/)
-- **Email**: yilbersilo@gmail.com
+- **Email**: ymdevoz14@gmail.com
 
 ---
 
